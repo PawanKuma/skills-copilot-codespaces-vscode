@@ -1,3 +1,3 @@
-function addValues(a, b) {
-    return a + b;
+function myFunction(req, res) {
+  res.send('Skills')
 }
